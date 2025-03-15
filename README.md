@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://ik.imagekit.io/pangerlkr/Pi7_Tool_1739764945025.jpg?updatedAt=1739774238827)"  />
+<img align="right" height="150" src="(https://ik.imagekit.io/pangerlkr/Pi7_Tool_1739764945025.jpg?updatedAt=1739774238827)"  />
 
 ###
 
