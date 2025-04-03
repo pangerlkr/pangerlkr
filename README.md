@@ -41,8 +41,6 @@ I'm a **Cybersecurity Professional, Entrepreneur, and Ethical Hacker** passionat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pangerlkr&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=pangerlkr&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangerlkr&layout=compact&theme=radical" />
   <br/>
    <img src="https://github-profile-trophy.vercel.app?username=pangerlkr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
