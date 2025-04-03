@@ -51,8 +51,8 @@ I'm a **Cybersecurity Professional, Entrepreneur, and Ethical Hacker** passionat
 ## 🌎 Connect with Me
 - **Website:** [NexusCipherGuard](https://www.nexuscipherguard.in)
 - **LinkedIn:** [Pangerkumzuk Longkumer](https://linkedin.com/in/pangerlkr)
-- **Twitter/X:** [@yourhandle](https://twitter.com/panger__lkr)
-- **GitHub:** [@your-github-username](https://github.com/pangerlkr)
+- **Twitter/X:** [@panger__lkr](https://twitter.com/panger__lkr)
+- **GitHub:** [@pangerlkr](https://github.com/pangerlkr)
 
 🤝 Let's collaborate on exciting projects in cybersecurity and AI!
 
