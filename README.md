@@ -5,7 +5,7 @@
 ![Upwork Freelancer](https://img.shields.io/badge/Upwork-Freelancer-green)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%7C+Ethical+Hacker;Founder+of+CipherGuard;Defending+Every+Byte+of+Your+Digital+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%7C+Ethical+Hacker;Founder+of+NexusCipherGuard+India;Defending+Every+Byte+of+Your+Digital+World" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
