@@ -15,7 +15,7 @@
 ## 🚀 About Me  
 
 I’m a **Cybersecurity Professional, Entrepreneur, and Ethical Hacker** obsessed with defending the digital frontier.  
-As the **Founder of [CipherGuard India](https://www.nexuscipherguard.in)**, I work on **penetration testing, vulnerability assessments, digital forensics, and cybersecurity awareness**—equipping institutions, businesses, and even para-military organizations with digital armor.  
+As the **Founder of [NEXUSCIPHERGUARD India](https://www.nexuscipherguard.in)**, I work on **penetration testing, vulnerability assessments, digital forensics, and cybersecurity awareness**—equipping institutions, businesses, and even para-military organizations with digital armor.  
 
 📖 **Author** of *Unleashing the Dark Side of Technology: A Guide to Cyber Security*  
 🎤 **Speaker & Trainer** on phishing, social engineering, AI in cybersecurity, and ethical hacking  
@@ -73,10 +73,11 @@ As the **Founder of [CipherGuard India](https://www.nexuscipherguard.in)**, I wo
 
 ## 🌎 Connect with Me  
 
-- **Website:** [CipherGuard](https://www.nexuscipherguard.in)  
+- **Website:** [NEXUCIPHERGUARD INDIA](https://www.nexuscipherguard.in)  
 - **LinkedIn:** [Pangerkumzuk Longkumer](https://linkedin.com/in/pangerlkr)  
 - **Twitter/X:** [@panger__lkr](https://twitter.com/panger__lkr)  
 - **GitHub:** [@pangerlkr](https://github.com/pangerlkr)  
-- **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~pangerkumzuk)  
+- **Instagram:** [Follow Me](https://www.instagram.com/panger__lkr)
+- **Portfolio:** [visit website](https://www.pangerlkr.link)
 
 🤝 Let’s collaborate on **Cybersecurity, AI, and Digital Defense projects!**  
