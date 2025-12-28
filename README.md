@@ -52,13 +52,6 @@ As the **Founder of [NEXUSCIPHERGUARD India](https://www.nexuscipherguard.in)**,
 
 ---
 
-## 📝 Recent Activity  
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🌎 Connect with Me  
 
 - **Website:** [NEXUCIPHERGUARD INDIA](https://www.nexuscipherguard.in)  
