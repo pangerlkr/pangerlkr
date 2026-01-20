@@ -1,4 +1,5 @@
-# Hi there, I'm Pangerkumzuk Longkumer 👋  
+# Hi there, I'm Pangerkumzuk Longkumer 
+
 
 ![Cybersecurity & Entrepreneurship](https://img.shields.io/badge/Cybersecurity-Entrepreneurship-blue)  
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)  
