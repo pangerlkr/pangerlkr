@@ -64,4 +64,4 @@ As the **Founder of [NEXUSCIPHERGUARD India](https://www.nexuscipherguard.in)**,
 
 🤝 Let’s collaborate on **Cybersecurity, AI, and Digital Defense projects!**  
 
-## I am reachable here: [email me](contact@pangerlkr.link)
+## I am reachable here: [email me](mailto:contact@pangerlkr.link)
