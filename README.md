@@ -38,13 +38,13 @@ I publish regularly on LinkedIn, Instagram and during Cyber Awareness Month, bec
 
 | | |
 |---|---|
-| **Founder, NEXUSCIPHERGUARD India** | Cybersecurity awareness, audits, workshops, and consulting |
-| **Advisory Panel Member** | MMB Cyber School (Non-profit) |
+| **Founder, [NEXUSCIPHERGUARD India](https://nexuscipherguard.in)** | Cybersecurity awareness, audits, workshops, and consulting |
+| **Advisory Panel Member** | [MMB Cyber School](https://mmbcyberschool.org) (Non-profit) |
 | **Guest Lecturer** | Cybersecurity & Ethical Hacking |
 | **Impact** | 4000+ Students & Professionals |
 | **Workshop Leader** | Institutions, universities, and security forces |
 | **Entrepreneur Since College** | Built and exited RG Store Pvt. Ltd, Co - Running LongSong Rentals |
-| **Cybersecurity by Accident** | Inspired by WannaCry. Chose prison avoidance instead |
+| **Cybersecurity by Accident** | Inspired by [WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack). Chose prison avoidance instead |
 
 ---
 
@@ -79,11 +79,22 @@ And habits, once neglected, turn predatory.
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/pangerlkr) ·  
-[GitHub](https://github.com/pangerlkr) ·  
-[Website](https://pangerlkr.link)
-[Instagram](https://instagram.com/panger__lkr)
-[Facebook](https://facebook.com/lkr.panger)
----
+<p align="left">
+  <a href="https://linkedin.com/in/pangerlkr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
+  </a>
+  <a href="https://github.com/pangerlkr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" />
+  </a>
+  <a href="https://pangerlkr.link">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="28" />
+  </a>
+  <a href="https://instagram.com/panger__lkr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" />
+  </a>
+  <a href="https://facebook.com/lkr.panger">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="28" />
+  </a>
+</p>
 
 *"Technology does not betray us. Our ignorance does."*
