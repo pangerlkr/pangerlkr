@@ -1,4 +1,4 @@
-<img width="400" alt="image" src="https://github.com/pangerlkr/pangerlkr/blob/main/Panger%20Lkr.jpeg" />
+<img width="400" alt="image" src="https://github.com/pangerlkr/pangerlkr/blob/main/resources/Panger%20Lkr.jpeg" />
 
 # Pangerkumzuk Longkumer
 
