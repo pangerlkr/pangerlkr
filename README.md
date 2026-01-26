@@ -7,11 +7,13 @@ Educating people before hackers do.
 
 **[Visit website](https://pangerlkr.link)**
 
+**[Check Portfolio](https://github.com/pangerlkr/pangerlkr/blob/main/resources/Panger%20Lkr%20-%20Portfolio.pdf)**
+
 ---
 
 ## Now
 
-**Founder NexusCipherGuard India**  
+**Founder NEXUSCIPHERGUARD India**  
 Cybersecurity awareness, ethical hacking, and digital forensics for institutions, businesses, and law enforcement.
 
 **Cybersecurity Educator & Guest Lecturer**  
