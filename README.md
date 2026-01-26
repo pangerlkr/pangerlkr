@@ -30,7 +30,7 @@ Topics I write and speak about:
 - Digital hygiene for institutions and paramilitary forces  
 - The uncomfortable gap between policy and practice  
 
-I publish regularly on LinkedIn and during Cyber Awareness Month, because silence helps attackers.
+I publish regularly on LinkedIn, Instagram and during Cyber Awareness Month, because silence helps attackers.
 
 ---
 
@@ -41,6 +41,7 @@ I publish regularly on LinkedIn and during Cyber Awareness Month, because silenc
 | **Founder, NEXUSCIPHERGUARD India** | Cybersecurity awareness, audits, workshops, and consulting |
 | **Advisory Panel Member** | MMB Cyber School (Non-profit) |
 | **Guest Lecturer** | Cybersecurity & Ethical Hacking |
+| **Impact** | 4000+ Students & Professionals |
 | **Workshop Leader** | Institutions, universities, and security forces |
 | **Entrepreneur Since College** | Built and exited RG Store Pvt. Ltd, Co - Running LongSong Rentals |
 | **Cybersecurity by Accident** | Inspired by WannaCry. Chose prison avoidance instead |
@@ -51,6 +52,7 @@ I publish regularly on LinkedIn and during Cyber Awareness Month, because silenc
 
 | Project | Description |
 |-------|-------------|
+| **SecureComm** | Web-based end-to-end encrypted communication platform |
 | **URL Analyzer** | Threat analysis tool with plans for user tiers and subscriptions |
 | **Cybersecurity Training Material** | Slides, handbooks, and demos for workshops |
 | **Awareness Content** | Practical, non-theoretical cybersecurity education |
