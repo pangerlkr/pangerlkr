@@ -1,9 +1,11 @@
+<img width="400" alt="image" src="https://github.com/pangerlkr/pangerlkr/blob/main/Panger%20Lkr.jpeg" />
+
 # Pangerkumzuk Longkumer
 
 Builder. Cybersecurity Professional. Entrepreneur.  
 Educating people before hackers do.
 
-**[pangerlkr.link](https://pangerlkr.link)**
+**[Visit website](https://pangerlkr.link)**
 
 ---
 
@@ -40,7 +42,7 @@ I publish regularly on LinkedIn and during Cyber Awareness Month, because silenc
 | **Advisory Panel Member** | MMB Cyber School (Non-profit) |
 | **Guest Lecturer** | Cybersecurity & Ethical Hacking |
 | **Workshop Leader** | Institutions, universities, and security forces |
-| **Entrepreneur Since College** | Built and exited RG Store Pvt. Ltd | Co - Running LongSong Rentals
+| **Entrepreneur Since College** | Built and exited RG Store Pvt. Ltd, Co - Running LongSong Rentals |
 | **Cybersecurity by Accident** | Inspired by WannaCry. Chose prison avoidance instead |
 
 ---
