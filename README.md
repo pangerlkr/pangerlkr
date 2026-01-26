@@ -52,8 +52,8 @@ I publish regularly on LinkedIn, Instagram and during Cyber Awareness Month, bec
 
 | Project | Description |
 |-------|-------------|
-| **SecureComm** | Web-based end-to-end encrypted communication platform |
-| **URL Analyzer** | Threat analysis tool with plans for user tiers and subscriptions |
+| **[SecureComm](https://github.com/pangerlkr/SecureComm)** | Web-based end-to-end encrypted communication platform |
+| **[URL Analyzer](http://nexusrecon.nexuscipherguard.in/)** | Threat analysis tool with plans for user tiers and subscriptions |
 | **Cybersecurity Training Material** | Slides, handbooks, and demos for workshops |
 | **Awareness Content** | Practical, non-theoretical cybersecurity education |
 | **Upcoming** | Forensic lab tooling and ethical hacking infrastructure |
