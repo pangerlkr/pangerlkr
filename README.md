@@ -1,4 +1,4 @@
-<img width="400" alt="image" src="https://github.com/pangerlkr/pangerlkr/blob/main/resources/Panger%20Lkr.jpeg" />
+![Panger Lkr](https://github.com/user-attachments/assets/8035e774-9cab-49d7-b870-e4fd28026b52)
 
 # Pangerkumzuk Longkumer
 
