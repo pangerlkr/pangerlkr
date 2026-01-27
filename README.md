@@ -1,13 +1,16 @@
-![Panger Lkr](https://github.com/user-attachments/assets/8035e774-9cab-49d7-b870-e4fd28026b52)
-
 # Pangerkumzuk Longkumer
 
-Builder. Cybersecurity Professional. Entrepreneur.  
-Educating people before hackers do.
+![Profile](https://github.com/user-attachments/assets/8035e774-9cab-49d7-b870-e4fd28026b52)
 
-**[Visit website](https://pangerlkr.link)**
+| Pangerkumzuk Longkumer |
+|-------|
 
-**[Check Portfolio](https://github.com/pangerlkr/pangerlkr/blob/main/resources/Panger%20Lkr%20-%20Portfolio.pdf)**
+---
+**Builder. Cybersecurity Professional. Entrepreneur.  
+Educating people before hackers do.**
+
+| **[Visit website](https://pangerlkr.link)** | **[Check Portfolio](https://github.com/pangerlkr/pangerlkr/blob/main/resources/Panger%20Lkr%20-%20Portfolio.pdf)** |
+|-------|------|
 
 ---
 
@@ -42,8 +45,9 @@ I publish regularly on LinkedIn, Instagram and during Cyber Awareness Month, bec
 |---|---|
 | **Founder, [NEXUSCIPHERGUARD India](https://nexuscipherguard.in)** | Cybersecurity awareness, audits, workshops, and consulting |
 | **Advisory Panel Member** | [MMB Cyber School](https://mmbcyberschool.org) (Non-profit) |
+| **[Youth Icon](https://morungexpress.com/nagaland-youth-icons-at-viksit-bharat-young-leaders-dialogue-2025)** | Conferred by **Ministry of Youth Resources & Sports**, *Government of India* |
 | **Guest Lecturer** | Cybersecurity & Ethical Hacking |
-| **Impact** | 4000+ Students & Professionals |
+| **Impact** | 4000 + Students & Professionals |
 | **Workshop Leader** | Institutions, universities, and security forces |
 | **Entrepreneur Since College** | Built and exited RG Store Pvt. Ltd, Co - Running LongSong Rentals |
 | **Cybersecurity by Accident** | Inspired by [WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack). Chose prison avoidance instead |
