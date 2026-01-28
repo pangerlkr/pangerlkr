@@ -1,6 +1,5 @@
 # Pangerkumzuk Longkumer
 
-![Profile](https://github.com/user-attachments/assets/8035e774-9cab-49d7-b870-e4fd28026b52)
 
 | Pangerkumzuk Longkumer |
 |-------|
