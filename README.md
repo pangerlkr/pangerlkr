@@ -1,6 +1,5 @@
 # Pangerkumzuk Longkumer
-![Panger Lkr](https://github.com/user-attachments/assets/840da849-5034-4d16-ae08-991319b983c5)
-
+![Panger Lkr](https://github.com/user-attachments/assets/4da1ad39-74c7-4e4e-99e9-86b398a1c5c6)
 
 | Pangerkumzuk Longkumer |
 |-------|
